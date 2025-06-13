@@ -22,7 +22,7 @@ export default function Grid (){
                         <div className="bg-gray-300 rounded-lg">
                             <Image src={'/hibrid.jpg'} width={300} height={200} layout="responsive" alt={'hibrid'} className="rounded-t-lg" />
                             <h1 className="text-2xl font-semibold pt-4 px-4">Hibrid modellek</h1>
-                            <p className="pt-4 text-lg pb-4 px-4"> "Ismerje meg kíváló üzemanyag-takarékos hibrid modelljeinket és élvezze a fenntartható vezetés élményét!"</p>
+                            <p className="pt-4 text-lg pb-4 px-4"> Ismerje meg kíváló üzemanyag-takarékos hibrid modelljeinket és élvezze a fenntartható vezetés élményét!</p>
                             <div className="pb-4 flex justify-center">
                                 <button className="flex gap-2 bg-primary px-6 py-4  font-semibold text-white rounded-full" >
                                     Megtekintés
